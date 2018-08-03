@@ -1,0 +1,56 @@
+! URXVT TERMINAL CONFIG
+URxvt.fading: 35
+URxvt.scrollBar: false
+URxvt.font:xft:Deja Vu Sans Mono:pixelsize=9
+URxvt*foreground: white
+URxvt*depth: 32
+URxvt*background: rgba:0000/0000/0200/aaaa
+URxvt*cursorColor: #56b6c2
+URxvt*internalBorder: 12
+URxvt.letterSpace: -2
+
+! ROFI CONFIG
+rofi.width: 100
+rofi.lines: 3
+rofi.font: Noto Sans 15
+rofi.padding: 800
+rofi.eh: 1
+rofi.separator-style: none
+rofi.hide-scrollbar: true
+rofi.bw: 0
+rofi.opacity: 50
+rofi.background: #000000
+rofi.color-normal: argb:002f343f,  #ffffff,  argb:00222222, argb:00222222,  #ffffff
+rofi.color-window: argb:cc222222
+
+! black
+*.color0:       #1d1f21
+*.color8:       #1d1f21
+
+! red
+*.color1:       #e06c75
+*.color9:       #e06c75
+
+! green
+*.color2:       #98c379
+*.color10:      #98c379
+
+! yellow
+*.color3:       #d19a66
+*.color11:      #d19a66
+
+! blue
+*.color4:       #61afef
+*.color12:      #61afef
+
+! magenta
+*.color5:       #c678dd
+*.color13:      #c678dd
+
+! cyan
+*.color6:       #56b6c2
+*.color14:      #56b6c2
+
+! white
+*.color7:       #5c6370
+*.color15:      #c5c8c6
