@@ -1,4 +1,5 @@
-setxkbmap -layout gb
-~/.fehbg
+setxkbmap -layout it
+
 xrdb ~/.Xresources
+
 exec i3
